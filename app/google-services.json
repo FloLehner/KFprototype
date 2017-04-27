@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "37860858015",
+    "firebase_url": "https://kfprototype.firebaseio.com",
+    "project_id": "kfprototype",
+    "storage_bucket": "kfprototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37860858015:android:bdaf5ecc4e3af2b2",
+        "android_client_info": {
+          "package_name": "com.example.flo.kf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37860858015-cua4a61rniuka0h0c41stakch6pqjtb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJgdLD0MZQRP5QXvf-F-HxShyr-QVcX5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

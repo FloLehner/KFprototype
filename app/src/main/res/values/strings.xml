@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KFprototype</string>
+    <string name="welcomeMessage">Wilkommen</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username:</string>
+    <string name="password">Passwort:</string>
+    <string name="login">Login</string>
+    <string name="registration">Registrieren</string>
+    <string name="title_activity_registration">Registrierung</string>
+    <string name="mail">E-Mail:</string>
+    <string name="title_activity_overview">Themenübersicht</string>
+    <string name="title_activity_question">Frage</string>
+    <string name="continueQuestion">Weiter</string>
+</resources>
